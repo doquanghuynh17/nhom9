@@ -70,15 +70,6 @@ Dự án chạy **hoàn toàn phía client (Frontend Only)**: không có backend
 └── README.md
 ```
 
-## ▶️ Cách chạy
-
-1. Tải hoặc clone project về máy.
-2. Mở file `index.html` bằng trình duyệt (hoặc dùng extension **Live Server** của VS Code).
-3. Cần kết nối Internet để tải font và ảnh sản phẩm từ nguồn ngoài.
-
-> Nên chạy qua Live Server hoặc `localhost` để Web Crypto API (dùng để băm mật khẩu) hoạt động ổn định, vì API này chỉ khả dụng trong ngữ cảnh an toàn (HTTPS hoặc localhost).
-
-
 ## 📄 Bản quyền
 
 © 2025 CROWN-CO Luxury Shop. Dự án học tập do Đỗ Quang Huynh và Nguyễn Vũ Trường Sơn thực hiện.
