@@ -72,4 +72,4 @@ Dự án chạy **hoàn toàn phía client (Frontend Only)**: không có backend
 
 ## 📄 Bản quyền
 
-© 2025 CROWN-CO Luxury Shop. Dự án học tập do Đỗ Quang Huynh và Nguyễn Vũ Trường Sơn thực hiện.
+© 2026 CROWN-CO Luxury Shop. Dự án học tập do Đỗ Quang Huynh và Nguyễn Vũ Trường Sơn thực hiện.
